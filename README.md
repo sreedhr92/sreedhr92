@@ -1,9 +1,9 @@
 ### Hi there, I'm Sreedhar V 👋
 
 
-## I'm a CSE undergraduate!
+#### I'm a CSE undergraduate at SSNCE!
 
-- ⚡I love music🥰, sleep😴, learning🤓 and coding 👾
+- ⚡Creating a life I love💙.
 
 <br />
 
@@ -40,14 +40,16 @@
 
 </details>
 
-
+<br />
 ### Connect with me:
 
+[<img align="left" alt="sreedhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="sreedhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sreedhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sreedhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sreedhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
+[gmail]: mailto:sreedhar18161@cse.ssn.edu.in
 [twitter]: https://twitter.com/Sreedhr_92
 [linkedin]: https://www.linkedin.com/in/sreedhar-v-9544081aa/
 [instagram]: https://www.instagram.com/sreedhr_92/

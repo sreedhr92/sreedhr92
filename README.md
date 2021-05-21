@@ -5,7 +5,6 @@
 
 - ⚡Creating a life I love💙.
 
-<br />
 
 ### Languages and Tools:
 

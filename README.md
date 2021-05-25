@@ -34,6 +34,9 @@
   <p align="center"> 
     <img src="https://profile-counter.glitch.me/sreedhr92/count.svg" />
   </p>
+  <p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreedhr92&show_icons=true&locale=en&layout=compact" alt="sreedhar" />
+  </p>
 </details>
 
 ### Connect with me:

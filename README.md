@@ -27,17 +27,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br /><br />
 
 <br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sreedhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sreedhr92&show_icons=true&hide_border=true&theme=tokyonight" />
-  <p align="center"> 
-    <img src="https://profile-counter.glitch.me/sreedhr92/count.svg" />
-  </p>
-  <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreedhr92&show_icons=true&locale=en&layout=compact" alt="sreedhar" />
-  </p>
+  <img align="left" alt="Sreedhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sreedhr92&show_icons=true&hide_border=true&theme=tokyonight" />&nbsp;
+  <p align="center"><img align="left" src="https://profile-counter.glitch.me/sreedhr92/count.svg" />&nbsp;</p>
+  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreedhr92&show_icons=true&locale=en&layout=compact" alt="sreedhar" />-->
 </details>
+
 
 ### Connect with me:
 

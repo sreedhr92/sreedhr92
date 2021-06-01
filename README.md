@@ -3,7 +3,6 @@
 
 #### I'm a CSE undergraduate at SSNCE!
 
-- ⚡Creating a life I love💙.
 
 
 ### Languages and Tools:
